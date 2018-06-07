@@ -1,8 +1,6 @@
 # embedded-cassandra
 
-Goal 
-	1. Spring Boot app with a rest endpoint to connect to real cassandra instance.
-	2. Spring Boot component tests to connect to an embedded cassandra (These can be integrated and run as part of our CI)
+Goal(s): Spring Boot app with a rest endpoint to connect to real cassandra instance. Spring Boot component tests to connect to an embedded cassandra (These can be integrated and run as part of our CI)
 
 1. Create a standalong spring boot maven project using SPRING INITIALIZR at https://start.spring.io/
 2. Add all the spring boot dependencies required. Critical ones are listed below
