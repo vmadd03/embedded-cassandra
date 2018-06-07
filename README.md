@@ -9,7 +9,7 @@ Step(s) towards building it
 
 1. Create a stand alone spring boot maven project using SPRING INITIALIZR at https://start.spring.io/
 2. Add all the spring boot dependencies required. Critical ones are listed below
-	 		spring-boot-starter-data-cassandra - 	spring boot jpa for cassandra to support CRUD operations
+			spring-boot-starter-data-cassandra - 	spring boot jpa for cassandra to support CRUD operations
 			cassandra-driver-core							 - 	Cassandra driver to connect to real cassandra or embedded cassandra
 			cassandra-unit-spring							 -	To start an embedded cassandra
 			cassandra-unit-shaded							 -  To start an embedded cassandra
